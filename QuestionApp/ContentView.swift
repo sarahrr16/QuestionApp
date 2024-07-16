@@ -21,7 +21,7 @@ struct ContentView: View
                     Text("⭐️Question #1")
                         .font(.largeTitle)
                     Spacer()
-                    Text("What is my pets name?")
+                    Text("What is my pets name!")
                         .font(.title)
                         
                     Button("Cheeto") {
